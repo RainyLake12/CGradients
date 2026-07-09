@@ -1,6 +1,6 @@
 # CGradient
 
-Terminal program which draws a gradient in the terminal.CMovingGradient draws a gradient animation.
+Terminal program which draws a gradient in the terminal. CMovingGradient draws a gradient animation.
 
 Uses config files to let you change settings in ~/.cgradient.config (for cgradient) and ~/.cmovinggradients.config (for cmovinggradients). Config files use a key-value system in the format "\<key\> \<value\>"
 
